@@ -234,7 +234,7 @@ a {
 .project-card {
   width: 90%;
   height: 550px;
-  background-image: url(./images/projects/project1.jpg);
+  background-image: url(../images/proj2.jpg);
   background-size: cover;
   /* background-repeat: no-repeat; */
   position: relative;
@@ -370,7 +370,7 @@ a {
 
 #project2 {
   margin-left: 120px;
-  background-image: url(proj2.jpg);
+  background-image: url(../images/proj2);
 }
 #project3 {
   background-image: url(./images/projects/Project3.jpg);
